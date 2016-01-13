@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountStoreTest", "AccountStoreTest.csproj", "{A060E7E0-C208-4928-A9DA-0B1F5C3ABD11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A060E7E0-C208-4928-A9DA-0B1F5C3ABD11}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{A060E7E0-C208-4928-A9DA-0B1F5C3ABD11}.Debug|iPhone.Build.0 = Debug|iPhone
+		{A060E7E0-C208-4928-A9DA-0B1F5C3ABD11}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{A060E7E0-C208-4928-A9DA-0B1F5C3ABD11}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{A060E7E0-C208-4928-A9DA-0B1F5C3ABD11}.Release|iPhone.ActiveCfg = Release|iPhone
+		{A060E7E0-C208-4928-A9DA-0B1F5C3ABD11}.Release|iPhone.Build.0 = Release|iPhone
+		{A060E7E0-C208-4928-A9DA-0B1F5C3ABD11}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{A060E7E0-C208-4928-A9DA-0B1F5C3ABD11}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+EndGlobal
